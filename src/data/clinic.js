@@ -1,6 +1,6 @@
 export const clinic = {
   name: "Riveros Ortodoncia",
-  tagline: "YOUR TAGLINE HERE",
+  tagline: "Transformamos sonrisas, mejoramos vidas.",
 
   dentist: {
     name: "Dra. Andrea Riveros Talero",
@@ -28,7 +28,7 @@ export const clinic = {
   services: [
     {
         name: "Frenillos",
-        description: "Trabajamos con diversad tecnologías y tecnicas de ortodoncia para ofrecerte la mejor opción según tu caso."
+        description: "Trabajamos con diversas tecnologías y técnicas de ortodoncia para ofrecerte la mejor opción según tu caso."
     },
     {
       name: "Odontología General",
